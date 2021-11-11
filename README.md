@@ -40,15 +40,17 @@ I will utilize codeHS as my web-based Integrated Development Environment.
 - codeHS has AP aligned coursework, curriculum, lesson plans, and test review. 
 - codeHS allows for full course customization to optimize the learning environment over the years. 
 - codeHS offers a lot of functionality that might allow it to replace google classroom as the primary student interface, but I'm undecided if the pros outweigh the cons on that matter. 
-Describe the software that you will use. Include software used for students as
-well as any software the instructor will use. This should include any software
-installed as well as any online services.
 
 ### Hardware Specifications
 
-I will limit the hardware requirements to the school issued student chromebooks. 
+I will limit the hardware requirements on the student side to the school issued student chromebooks. 
 - This will allow the course to be accessible to the traditionally underserved students in the district. 
-- This will ease the burden on my IT department to maintain the technology as they will be familiar with the materials. 
+- This will ease the burden on my IT department in maintaining the technology as they will be familiar with the materials. 
+
+My Classroom is already equiped with the following resoucres for the teacher. 
+- A projector 
+- Document camera 
+- White boards 
 
 ### Application
 

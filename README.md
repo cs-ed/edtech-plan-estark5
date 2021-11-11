@@ -27,11 +27,13 @@ The chromebooks are low-spec (still looking into exact specifications) and will 
 
 My district contracts with aeries for our Student Information System. 
 - I will continue to use aeries for assignment scoring and reporting as I don't have a choice in this matter. 
+
 I will organize the course through google classroom for the following reasons. 
 - The student population is familiar with the software as many teachers in the district utilize it. 
 - I am very familiar with google classroom. 
 - Google classroom easily functions as a hub through which I can link to different applications as appropriate for the coursework. 
 - Google classroom has built in plagarism software which is a constant concern with teaching computer science. 
+
 I will utilize codeHS as my web-based Integrated Development Environment. 
 - codeHS is Java compatible which is the language used for the AP Computer Science A exam. 
 - codeHS is web based to meet the the needs of our district's limited technology. 

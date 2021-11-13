@@ -68,29 +68,29 @@ My Classroom is already equiped with the following resoucres for the teacher.
 ### Application
 
 Normal days of class will include aspects of the following: 
-1. Direct instruction 
+**1. Direct instruction** 
 - Ideally used for memory/recall level concepts. 
 - Examples include types of variables, calling functions, basic syntax instructions. 
 - codeHS would reinforce lectures by allowing students to manipulate the same examples being dicussed by teacher. 
-2. Peer instruction 
+**2. Peer instruction** 
 - Used for shorter, application based problems. 
 - Examples would be "How do you write a function that does x?" or "How would you instantiate this object for a program that does x?" 
 - Allow students to attempt problem solo, then with partners/small groups, then debrief as a whole class.
 - Peer instruction protocols have been shown to be effective at the university level in computer science instruction  
-3. Labs 
+**3. Lab**
 - Similar to projects (described below) except a lab would be designed to be completed in a single class period. 
 - Students will work on codeHS to complete the assignment. 
 - A lab will work to reinforce key concept and will function similar to group tests in traditional math courses. 
 - Collaboration and group work will be encouraged as reviewing peer code is vital component in development. 
 - The labs are a longer form of peer instruction as collaboration and peer review are an essential part of their success.  
-4. Projects
+**4. Projects**
 - In my own experience, extended projects have been invaluable in making sense of computer science concepts. 
 - Assignments will be completed on codeHS. 
 - Classtime will be dedicated to allowing students time to work on writing Java programs from scratch and from templates.
 - These extended projects will often run parallel to the rest of the curriculum and take several days or weeks to complete. 
 - Longer projects will set benchmarks to avoid issues with procrastination.
 - Project based learning has been shown to be effective through research due to its inherent contextualization and authentic tasks.   
-5. Homework
+**5. Homework**
 - Homework presents a troubling access and equity issue with computer science curriculum. 
 - As became evident during the COVID-19 pandemic, many students do not have reliable internet connections at home. 
 - However, the amount of coursework required for an AP class does require students to spend time on the material outside of classtime. 

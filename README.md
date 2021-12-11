@@ -123,33 +123,33 @@ Below I outline the decision of the major software choices in the technology pla
 
 **The Google Suite (Classroom, docs, mail, etc)** 
 
-**-Frontloading structures and routines.**
-1. The sooner teachers establish routines and norms, the sooner they can present increasingly difficult cognitive tasks to their students. 
-2. This is often completed using "ice-breaker" type activities, but if students enter the class with familiarity with the platforms on day 1, this lessens the cognitive load of starting work in the class. 
+**1. Frontloading structures and routines.**
+- The sooner teachers establish routines and norms, the sooner they can present increasingly difficult cognitive tasks to their students. 
+- This is often completed using "ice-breaker" type activities, but if students enter the class with familiarity with the platforms on day 1, this lessens the cognitive load of starting work in the class. 
 
 
-**-Reducing complexity accross the student's entire schedule**
-1. While there are many platforms and applications that can be used for specific goals very effectively,  I rarely find the increased complexity worth the benefit.
-2. Students have at least 6 classes and most teachers at my site communicate and organize their coursework through the google suite. The benefits of using what the students are familiar with outweighs the benefits of using more specialized software. 
-3. The exception to this rule is the development environment we'll be using (codeHS). This is because you cannot effectively teach computer science without teaching students to code. 
+**2. Reducing complexity accross the student's entire schedule**
+- While there are many platforms and applications that can be used for specific goals very effectively,  I rarely find the increased complexity worth the benefit.
+- Students have at least 6 classes and most teachers at my site communicate and organize their coursework through the google suite. The benefits of using what the students are familiar with outweighs the benefits of using more specialized software. 
+- The exception to this rule is the development environment we'll be using (codeHS). This is because you cannot effectively teach computer science without teaching students to code. 
 
 
 **CodeHS**
 
-**-This learning platform was specifically picked for it's broad applicability.**
-1. The choice of assignment is what is vital to foster engagement
-2. This platform gives the instructor flexibility to tailor curriculum to student interests
-3. Projects can range in application from business and education to social equity. 
+**1. This learning platform was specifically picked for it's broad applicability.**
+- The choice of assignment is what is vital to foster engagement
+- This platform gives the instructor flexibility to tailor curriculum to student interests
+- Projects can range in application from business and education to social equity. 
 
 
-**-The web-based nature of the application helps to increase access and equity.** 
-1. While providing computer science students with computers capable of running a compiler and debugger would be great, its also likely outside of the budget of a pilot program.
-2. Students are already accustomed to using their school issued chromebooks for assignments. Picking a program capable of being run on the device they are familiar with is essential.  
-3. My district serves a predominately rural community and reliable, high-spped internet access is still not available for many of my students. The web based nature of this platform is a drawback as many of my students won't be able to work on their projects and labs at home. While this is a drawback of the choice, I think it is the best decision for the start of the program. 
+**2. The web-based nature of the application helps to increase access and equity.** 
+- While providing computer science students with computers capable of running a compiler and debugger would be great, its also likely outside of the budget of a pilot program.
+- Students are already accustomed to using their school issued chromebooks for assignments. Picking a program capable of being run on the device they are familiar with is essential.  
+- My district serves a predominately rural community and reliable, high-spped internet access is still not available for many of my students. The web based nature of this platform is a drawback as many of my students won't be able to work on their projects and labs at home. While this is a drawback of the choice, I think it is the best decision for the start of the program. 
 
 
-**-The platform comes with built in tools for student collaboration.**
-1. Student collaboration is essential for fostering interest and mastery in the curriculum. 
-2. Collaboration also helps break down the stereotypes surrounding "who is a computer scientist?" 
+**3. The platform comes with built in tools for student collaboration.**
+- Student collaboration is essential for fostering interest and mastery in the curriculum. 
+- Collaboration also helps break down the stereotypes surrounding "who is a computer scientist?" 
 
 

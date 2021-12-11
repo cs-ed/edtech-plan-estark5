@@ -118,6 +118,7 @@ How will the technology help *all* students learn? In this section, you can also
 describe how you address class resiliency, such as adapting to
 transitions to virtual education, social/legal/ethical challenges,  and/or
 evolving course contexts.
+
 Below I outline the decision of the major software choices in the technology plan. Evidence is provided in the context of pedagogy as well as access and equity. 
 
 

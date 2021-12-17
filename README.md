@@ -52,13 +52,15 @@ I will contnue to utilize the google suite of document processors.
 ### Hardware Specifications
 
 The student issued Acer Chromebook 311 models that come in 1 of 2 specific models: 
-*- C721-25AS*
+
+C721-25AS
 - AMD A-Series 1.60 GHz Dual Core CPU
 - AMD Radeon R4 Graphics Controller (4 GB Shared RAM) 
 - 4 GB DDR4 RAM 
 - No optical Drive
 
-*- C722-K4CN*
+
+C722-K4CN
 - MediaTek M8183C 2 GHz 8-core CPU
 - ARM Mali-G72 MP3 Graphics Controller (4 GB Shared RAM) 
 - 4 GB LPDDR4X RAM

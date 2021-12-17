@@ -51,14 +51,23 @@ I will contnue to utilize the google suite of document processors.
 
 ### Hardware Specifications
 
-The student issued chromebooks have the following specifications: 
-- FILL THIS IN LATER 
+The student issued Acer Chromebook 311 models that come in 1 of 2 specific models: 
+*- C721-25AS*
+- AMD A-Series 1.60 GHz Dual Core CPU
+- AMD Radeon R4 Graphics Controller (4 GB Shared RAM) 
+- 4 GB DDR4 RAM 
+- No optical Drive
 
-The teacher has a staff issued Dell Inspiron with the following specifications: 
-- FILL THIS IN LATER
+*- C722-K4CN*
+- MediaTek M8183C 2 GHz 8-core CPU
+- ARM Mali-G72 MP3 Graphics Controller (4 GB Shared RAM) 
+- 4 GB LPDDR4X RAM
+- No optical Drive
+
 
 I will limit the hardware requirements on the student side to the school issued student chromebooks. 
-- This will allow the course to be accessible to the traditionally underserved students in the district. 
+- This will allow the course to be accessible to the traditionally underserved students in the district.
+- This decision does limit the software at my disposal as the chromebooks are low-spec relative to the increasing demands of end-user applications. 
 - This will ease the burden on my IT department in maintaining the technology as they will be familiar with the materials. 
 
 My Classroom is already equiped with the following resoucres for the teacher. 
@@ -153,4 +162,5 @@ Below I outline the decision of the major software choices in the technology pla
 - Student collaboration is essential for fostering interest and mastery in the curriculum. 
 - Collaboration also helps break down the stereotypes surrounding "who is a computer scientist?" 
 
-
+**Disclaimer** 
+It is my anticipation that through the actual teaching of this course, I will find valuable opportunities to implement different technology, both hardware and software. My goal was to create a plan that gave me a starting point to build a program from the ground up, because I will be the first computer science teache rin my district. 

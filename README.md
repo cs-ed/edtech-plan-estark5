@@ -166,4 +166,4 @@ Below I outline the decision of the major software choices in the technology pla
 - Collaboration also helps break down the stereotypes surrounding "who is a computer scientist?" 
 
 **Disclaimer** 
-It is my anticipation that through the actual teaching of this course, I will find valuable opportunities to implement different technology, both hardware and software. My goal was to create a plan that gave me a starting point to build a program from the ground up, because I will be the first computer science teache rin my district. 
+It is my anticipation that through the actual teaching of this course, I will find valuable opportunities to implement different technology, both hardware and software. My goal was to create a plan that gave me a starting point to build a program from the ground up, because I will be the first computer science teacher in my district. 

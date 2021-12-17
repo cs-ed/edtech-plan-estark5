@@ -70,6 +70,7 @@ C722-K4CN
 I will limit the hardware requirements on the student side to the school issued student chromebooks. 
 - This will allow the course to be accessible to the traditionally underserved students in the district.
 - This decision does limit the software at my disposal as the chromebooks are low-spec relative to the increasing demands of end-user applications. 
+- Additionally, since the chromebooks don't carry a sufficient optical drive, the development environment will need to be web-based. 
 - This will ease the burden on my IT department in maintaining the technology as they will be familiar with the materials. 
 
 My Classroom is already equiped with the following resoucres for the teacher. 
